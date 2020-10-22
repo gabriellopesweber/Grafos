@@ -1,2 +1,2 @@
 # Grafos
-Atividades realizadas e programas desenvolvidos em aula.
+Atividades realizadas e desenvolvidos em aula.
